@@ -90,8 +90,8 @@ header {
   bottom: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 2rem;
-  border: 3px solid #07374a;
+  font-size: 1.5rem;
+  border: 2.5px solid #07374a;
   border-radius: 50%;
 }
 
@@ -123,7 +123,7 @@ header {
 }
 
 .about-content p {
-  font-size: 1.2rem;
+  font-size: 1.25vw;
   color: #f0f0e6;
   padding: 0 2.3rem;
   text-align: center;
